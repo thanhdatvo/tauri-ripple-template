@@ -5,6 +5,7 @@ This template should help you get started developing with Tauri, RippleTS and Ty
 # How to start
 
 Step 1: Clone the repository
+
 Step 2: run this command to install dependencies:
 
 ```bash
